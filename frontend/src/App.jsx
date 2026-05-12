@@ -391,7 +391,7 @@ useEffect(() => {
       text-center
     "
   >
-    Download CV
+    Download CV 
   </a>
 
 </div>
